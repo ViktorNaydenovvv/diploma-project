@@ -1,0 +1,6 @@
+[submodule "football-app-backend"]
+	path = football-app-backend
+	url = https://github.com/ViktorNaydenovvv/football-app-backend
+[submodule "football-app-frontend"]
+	path = football-app-frontend
+	url = https://github.com/ViktorNaydenovvv/football-app-frontend
