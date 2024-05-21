@@ -4,3 +4,6 @@
 [submodule "football-app-frontend"]
 	path = football-app-frontend
 	url = https://github.com/ViktorNaydenovvv/football-app-frontend
+[submodule "football-frontend"]
+	path = football-frontend
+	url = https://github.com/ViktorNaydenovvv/football-frontend.git
